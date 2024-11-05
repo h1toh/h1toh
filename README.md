@@ -1,4 +1,13 @@
-<h2 align="left">Fala ae! Eu sou Lucas Gomes</h2>
+```js
+import Desenvolvedor from "SeuNick";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Seu nome";
+  area = "Sua área";
+  trabalho = "Onde trabalha";
+  local = "Local";
+}
+```
 
 ###
 
