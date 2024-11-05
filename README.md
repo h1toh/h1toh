@@ -5,7 +5,7 @@ import Desenvolvedor from "h1toh";
 
 class SobreMim extends Desenvolvedor {
   nome = "Lucas Gomes";
-  area = "Full-Stack Developer";
+  area = "Full Stack Developer";
   local = "Rio de Janeiro";
 }
 
