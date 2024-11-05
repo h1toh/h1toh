@@ -1,11 +1,10 @@
 ```js
-import Desenvolvedor from "SeuNick";
+import Desenvolvedor from "h1toh";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
+  nome = "Lucas Gomes";
+  area = "Back-End";
+  local = "Rio de Janeiro";
 }
 ```
 
