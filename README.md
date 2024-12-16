@@ -1,20 +1,5 @@
 ###
-
-```js
-import Desenvolvedor from "h1toh";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Lucas Gomes";
-  area = "Full Stack Developer";
-  local = "Rio de Janeiro";
-}
-
-class Habilidades extends Desenvolvedor {
-  linguagens = ["Python", "JavaScript", "HTML5", "CSS3", "GIT"]
-  frameworks = ["Flask", "Express.js"]
-}
-```
-
+Meu nome é Lucas, tenho 18 anos e sou autodidata em programação 💕
 ### 
 
 <div align="center">
