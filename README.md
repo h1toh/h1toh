@@ -3,7 +3,7 @@
 Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela é utilizada no dia a dia para ajudar as pessoas me fascina e faz com que eu sempre queira evoluir junto com ela. 📈
 
 ## O que estou estudando 📚
-- ### <div> <img height="20px" src="https://www.svgrepo.com/show/355152/oracle.svg">  <img height="20px" src="https://www.alura.com.br/assets/img/alura-logo.svg"> <Hello, ONE!/> - Oracle + Alura </div>
+- ### <div> <img height="20px" src="https://www.svgrepo.com/show/355152/oracle.svg"> <Hello, ONE!/> - Oracle + Alura </div>
   
 - ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Fvuejs%2Fvuejs-original.svg"> VueJS </div>
 ***
