@@ -4,37 +4,38 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 
 ## O que estou estudando 📚
 - ### <Hello, ONE!/> - Oracle + Alura
+  
+- ### <div> VueJS <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Fvuejs%2Fvuejs-original.svg"> </div>
 ***
 
 ## Hard Skills ⚙
 - <strong> Back-End: </strong> Python e Flask <div>
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fpython%2Fpython-original.svg">
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fflask%2Fflask-original-wordmark.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FPython-Dark.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FFlask-Dark.svg">
 </div>
 
-- <strong> Front-End: </strong> HTML, CSS, JavaScript e Vue.js <div>
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fhtml5%2Fhtml5-original.svg">
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fcss3%2Fcss3-original.svg">
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fjavascript%2Fjavascript-original.svg">
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fvuejs%2Fvuejs-original.svg">
+- <strong> Front-End: </strong> HTML, CSS, JavaScript <div>
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FHTML.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FCSS.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FJavaScript.svg">
 </div>
 
 
 - <strong> Tools: </strong> Git, GitHub, Postman, Discord <div>
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fgit%2Fgit-original.svg">
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fgithub%2Fgithub.eps">
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fpostman%2Fpostman-original.svg">
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fdiscord%2Fdiscord-original.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FGit.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FGithub-Dark.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FPostman.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FDiscord.svg">
 </div>
 
 - <strong> Operating Systems: </strong> ArchLinux e Windows <div>
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Farchlinux%2Farchlinux-original.svg">
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fwindows11%2Fwindows11-original.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FArch-Dark.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FWindows-Dark.svg">
 </div>
 
 - <strong> IDEs: </strong> Visual Studio Code e Eclipse <div>
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Fvscode%2Fvscode-original.svg">
-  <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons%2Feclipse%2Feclipse-original.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FVSCode-Dark.svg">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons%2FEclipse-Dark.svg">
 </div>
 
 
