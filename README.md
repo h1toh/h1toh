@@ -46,4 +46,3 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h1toh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
