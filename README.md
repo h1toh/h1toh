@@ -16,7 +16,7 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=h1toh&hide_title=false&rank_icon=github&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue_navy&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h1toh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=false" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h1toh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=false&cache_seconds=1" height="160" alt="languages graph"  />
 </div>
 
 ## Hard Skills ⚙
