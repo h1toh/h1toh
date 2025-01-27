@@ -9,9 +9,11 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 ## O que estou estudando 📚
 - ### <div> <img height="20px" src="https://www.svgrepo.com/show/355152/oracle.svg"> <Hello, ONE!/> - Oracle + Alura </div>
   
-- ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Freact%2Freact-original.svg"> React </div>
+- ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Fnextjs%2Fnextjs-original.svg"> NextJS </div>
 
 - ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Ftypescript%2Ftypescript-original.svg"> TypeScript </div>
+
+- ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Ftailwindcss%2Ftailwindcss-original.svg"> TailwindCSS </div>
 ***
 
 <div align="center">
@@ -37,7 +39,7 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 <div>
   <img height="29px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img height="29px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img height="29px" src="hhttps://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
   <img height="29px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </div>
 
