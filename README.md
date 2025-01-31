@@ -8,7 +8,9 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devlukashito@gmail.com) 
 ## O que estou estudando 📚
 - ### <div> <img height="20px" src="https://www.svgrepo.com/show/355152/oracle.svg"> <Hello, ONE!/> - Oracle + Alura </div>
-  
+
+- ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg"> Java </div>
+
 - ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Fnextjs%2Fnextjs-original.svg"> NextJS </div>
 
 - ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Ftypescript%2Ftypescript-original.svg"> TypeScript </div>
