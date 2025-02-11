@@ -11,11 +11,7 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 
 - ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg"> Java </div>
 
-- ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Fnextjs%2Fnextjs-original.svg"> NextJS </div>
-
 - ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Ftypescript%2Ftypescript-original.svg"> TypeScript </div>
-
-- ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Ftailwindcss%2Ftailwindcss-original.svg"> TailwindCSS </div>
 ***
 
 <div align="center">
