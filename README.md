@@ -4,18 +4,15 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 
 ### Social 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashito/) 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devlukashito@gmail.com) 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/lucasdocrocs/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashito/) 
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lukashitoh@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/in/lucasdocrocs/) 
+
 ## O que estou estudando 📚
 - ### <div> <img height="20px" src="https://www.svgrepo.com/show/355152/oracle.svg"> <Hello, ONE!/> - Oracle + Alura </div>
 
 - ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg"> Java </div>
-
-- ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Ftypescript%2Ftypescript-original.svg"> TypeScript </div>
-
-- ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Freact%2Freact-original.svg"> React </div>
-
-- ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Fvitejs%2Fvitejs-original.svg"> Vite </div>
 ***
 
 <div align="center">
@@ -27,14 +24,16 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 ### Back-End:
 <div>
   <img height="29px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img height="29px" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 
 ### Front-End:
 <div>
+  <img height="29px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img height="29px" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E">
+  <img height="29px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img height="29px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img height="29px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
 ### Tools:
@@ -53,6 +52,6 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 
 ### IDEs: 
 <div>
-  <img height="29px" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/IntelliJ-2C2255?style=for-the-badge&logo=intellij&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=vs-code&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div>
