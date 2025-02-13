@@ -46,12 +46,12 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 
 ### OS:
 <div>
+  <img height="29px" src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img height="29px" src="https://img.shields.io/badge/ArchLinux-35495E?style=for-the-badge&logo=archlinux&logoColor=2CA5E0">
-  <img height="29px" src="https://img.shields.io/badge/Windows-294172?style=for-the-badge">
 </div>
 
 ### IDEs: 
 <div>
-  <img height="29px" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=vs-code&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img height="29px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div>
