@@ -7,7 +7,7 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/lucasdocrocs/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashito/) 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lukashitoh@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/in/lucasdocrocs/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasdocrocs/) 
 
 ## O que estou estudando 📚
 - ### <div> <img height="20px" src="https://www.svgrepo.com/show/355152/oracle.svg"> <Hello, ONE!/> - Oracle + Alura </div>
