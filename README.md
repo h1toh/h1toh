@@ -55,3 +55,5 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
   <img height="29px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img height="29px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div>
+
+
