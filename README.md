@@ -26,37 +26,39 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 ## Hard Skills ⚙
 ### Back-End:
 <div>
-  <img height="29px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img height="29px" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white">
 </div>
 
 ### Front-End:
 <div>
-  <img height="29px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img height="29px" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E">
-  <img height="29px" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img height="29px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img height="29px" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
 </div>
 
 ### Tools:
 <div>
-  <img height="29px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white">
 </div>
 
 ### OS:
 <div>
-  <img height="29px" src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/ArchLinux-35495E?style=for-the-badge&logo=archlinux&logoColor=2CA5E0">
+  <img height="29px" src="https://img.shields.io/badge/Windows_10-0078D6?logo=windows&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white">
 </div>
 
 ### IDEs: 
 <div>
-  <img height="29px" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white">
 </div>
 
 
