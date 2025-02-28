@@ -3,11 +3,14 @@
 Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela é utilizada no dia a dia para ajudar as pessoas me fascina e faz com que eu sempre queira evoluir junto com ela. 📈
 
 ### Social 🚀
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/lucasdocrocs/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashito/) 
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lukashitoh@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasdocrocs/) 
+<div>
+  
+  <a href="https://www.x.com/lucasdocrocs/"> <img height="29px" src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucashito/"> <img height="29px" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:lukashitoh@outlook.com"> <img height="29px" src="https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.instagram.com/lucasdocrocs/"> <img height="29px" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+  
+</div>
 
 ## O que estou estudando 📚
 
