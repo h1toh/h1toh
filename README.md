@@ -12,10 +12,6 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
   
 </div>
 
-## O que estou estudando 📚
-
-- ### <div> <img height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSue7PdTL_d2PhoGC4_pybMBoYgHZiRnQ_PhjFS_SbPvqCXlSM9qeMc21BF&s=10"> Matemática Aplicada e Computacional na UFRRJ </div>
-
 ***
 
 <div align="center">
