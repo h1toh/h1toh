@@ -14,11 +14,8 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 
 ## O que estou estudando 📚
 
-- ### <div> <img height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSue7PdTL_d2PhoGC4_pybMBoYgHZiRnQ_PhjFS_SbPvqCXlSM9qeMc21BF&s=10"> Bacharelando na UFRRJ </div>
+- ### <div> <img height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSue7PdTL_d2PhoGC4_pybMBoYgHZiRnQ_PhjFS_SbPvqCXlSM9qeMc21BF&s=10"> Matemática Aplicada e Computacional na UFRRJ </div>
 
-- ### <div> <img height="20px" src="https://www.svgrepo.com/show/355152/oracle.svg"> <Hello, ONE!/> - Oracle + Alura </div>
-
-- ### <div> <img height="20px" src="https://github.com/devicons/devicon/blob/master/icons%2Fjava%2Fjava-original.svg"> Java </div>
 ***
 
 <div align="center">
