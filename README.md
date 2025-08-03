@@ -54,7 +54,3 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 ### IDEs: 
 <div>
   <img height="29px" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white">
-</div>
-
-
