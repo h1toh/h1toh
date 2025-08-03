@@ -37,6 +37,10 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
   <img height="29px" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
 </div>
 
+### Database:
+<div>
+  <img height="29px" src="https://img.shields.io/badge/MongoDB-0078D6?logo=mongodb&logoColor=white">
+
 ### Tools:
 <div>
   <img height="29px" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
