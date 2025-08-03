@@ -39,7 +39,7 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 
 ### Database:
 <div>
-  <img height="29px" src="https://img.shields.io/badge/MongoDB-0078D6?logo=mongodb&logoColor=white">
+  <img height="29px" src="https://img.shields.io/badge/MongoDB-brightgreen?logo=mongodb&logoColor=white">
 
 ### Tools:
 <div>
