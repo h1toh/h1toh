@@ -22,14 +22,10 @@ Acho incrivel como a tecnologia vem evoluindo ao longo dos anos. A forma que ela
 <div>
   <img height="29px" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white">
   <img height="29px" src="https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white">
 </div>
 
 ### Front-End:
 <div>
-  <img height="29px" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white">
-  <img height="29px" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
   <img height="29px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
   <img height="29px" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white">
   <img height="29px" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white">
